@@ -1,38 +1,111 @@
+/* Add styling for your page here */
+
 .App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+  align-items:flex-start;
+  width: 100vw;
   }
-  to {
-    transform: rotate(360deg);
+  
+  .BakeryItem img{
+      width: 20vw;
+      height: auto;
+      border: 1px solid black;
+      border-radius: 10px;
+      padding: 10px;
   }
-}
+
+  .header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 37vw;
+    background: #f194c73c;
+    padding: 1vw;
+    border-radius: 20px;
+    margin-top: 1vw;
+    margin-left: 1vw;
+  }
+
+  .header-text {
+    width: 25vw;
+    font-family:'Courier New', Courier, monospace;
+    font-style: italic;
+    font-size: 3.5vw;
+    color: #F194C7;
+  }
+
+  .header-img {
+    width: 15vw;
+  }
+
+  .header-img img {
+    width: 12vw;
+  }
+
+  .header-subtext {
+
+    color: #F194C7;
+    font-size: 1vw;
+    margin-left: 1vw;
+    margin-top: 0.5vw;
+  }
+
+  .side-panel {
+    height: 100vh;
+    background-color: #f194c71d;
+    width: 20vw;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .side-panel-int {
+    margin-left: 1vw;
+  }
+
+  h1 {
+    font-family:'Courier New', Courier, monospace;
+    color: #F194C7;
+    font-weight: normal;
+  }
+
+  h2 {
+    color: #F194C7;
+    font-size: 1.1vw;
+  }
+
+  h3 {
+    color: #F194C7;
+    font-size: 1vw;
+    font-weight: normal;
+    height: 1vh;
+    background-color: rgba(255, 255, 255);
+    border-radius: 15px;
+    padding: 8px;
+    line-height: 1vh;
+  }
+
+  .side-panel-button {
+    background: transparent;
+    border: 0;
+  }
+
+  .side-panel-sort-buttons {
+    margin-top: 3vh;
+    width: 20vw;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: -1vw;
+  }
+
+  .side-panel-sort {
+    background-color: #F194C7;
+    color: white;
+    border: 0;
+    padding: 8px;
+    border-radius: 15px;
+    font-size: 1vw;
+  }
+
+
+  
