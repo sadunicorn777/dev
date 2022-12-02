@@ -69,7 +69,7 @@ function App() {
       <div style={{marginLeft: '65vw', borderLeft: "1px solid #F194C7", height: "100vh", paddingLeft: "3vw", position: "fixed"}}>
         <div style={{marginTop: '20vh'}}>
         <h1>Cart</h1>
-        <p><span>Your Total: </span>
+        <p><span>Your Total Price: </span>
         <span class="cart-total">${total}</span></p>
         {/* TODO: render a list of items in the cart */}
         {cartItems.map((item, index) => (

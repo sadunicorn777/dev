@@ -1,6 +1,6 @@
 [
     {
-      "name": "Aquarius",
+      "name": "Zodiac Package: Aquarius",
       "description": "Represented by water: Generous, trustworth, independent, indifferent, rebelious",
       "price": 80.00,
       "duration": 1.5,
@@ -8,7 +8,7 @@
       "category": "zodiac"
     },
     {
-      "name": "Aries",
+      "name": "Zodiac Package: Aries",
       "description": "Represented by the ram: Brave, willful, productive, impulsive, impatient",
       "price": 80.00,
       "duration": 1.5,
@@ -16,7 +16,7 @@
       "category": "zodiac"
     },
     {
-      "name": "Cancer",
+      "name": "Zodiac Package: Cancer",
       "description": "Represented by the crab: Intelligent, crafty, rational, irritable, tenacious",
       "price": 80.00,
       "duration": 1.5,
@@ -24,7 +24,7 @@
       "category": "zodiac"
     },
     {
-      "name": "Capricorn",
+      "name": "Zodiac Package: Capricorn",
       "description": "Represented by the goat: Self disciplined, persevering, serious, inflexible, hard-hearted",
       "price": 80.00,
       "duration": 1.5,
@@ -32,7 +32,7 @@
       "category": "zodiac"
     },
     {
-      "name": "Gemini",
+      "name": "Zodiac Package: Gemini",
       "description": "Represented by the twins: Curious, skillful, humorous, restless, nervous",
       "price": 80.00,
       "duration": 1.5,
@@ -40,7 +40,7 @@
       "category": "zodiac"
     },
     {
-      "name": "Leo",
+      "name": "Zodiac Package: Leo",
       "description": "Represented by the lion: Dominant, courageous, idealistic, arrogant, hedonistic",
       "price": 80.00,
       "duration": 1.5,
@@ -48,7 +48,7 @@
       "category": "zodiac"
     },
     {
-      "name": "Pisces",
+      "name": "Zodiac Package: Pisces",
       "description": "Represented by the fish: Sensible, placid, easygoing, dreamy, obsessive",
       "price": 80.00,
       "duration": 1.5,
@@ -56,7 +56,7 @@
       "category": "zodiac"
     },
     {
-      "name": "Sagittarius",
+      "name": "Zodiac Package: Sagittarius",
       "description": "Represented by the crossbow: Optimistic, fair-minded, intellectual, reckless, cold-hearted",
       "price": 80.00,
       "duration": 1.5,
@@ -64,7 +64,7 @@
       "category": "zodiac"
     },
     {
-      "name": "Scorpio",
+      "name": "Zodiac Package: Scorpio",
       "description": "Represented by the scorpion: Emotional, industrious, inquisitive, jealous, compulsive",
       "price": 80.00,
       "duration": 1.5,
@@ -72,7 +72,7 @@
       "category": "zodiac"
     },
     {
-      "name": "Taurus",
+      "name": "Zodiac Package: Taurus",
       "description": "Represented by the bull: Practical, confident, tidy, stubborn, excessive",
       "price": 80.00,
       "duration": 1.5,
@@ -80,7 +80,7 @@
       "category": "zodiac"
     },
     {
-      "name": "Virgo",
+      "name": "Zodiac Package: Virgo",
       "description": "Represented by the child: Altruistic, adaptable, efficient, sensitive, materialistic",
       "price": 80.00,
       "duration": 1.5,
@@ -88,7 +88,7 @@
       "category": "zodiac"
     },
     {
-      "name": "Libra",
+      "name": "Zodiac Package: Libra",
       "description": "Represented by the scales: Fair, wise, helpful, superficial, vain",
       "price": 80.00,
       "duration": 1.5,
@@ -96,7 +96,7 @@
       "category": "zodiac"
     },
     {
-      "name": "Jimin",
+      "name": "BTS Package: Jimin",
       "description": "Jimin's vibes are ethereal, angelic, heavenly",
       "price": 50.50,
       "duration": 0.5,
@@ -104,7 +104,7 @@
       "category": "bts"
     },
     {
-      "name": "Jungkook",
+      "name": "BTS Package: Jungkook",
       "description": "Jungkook's vibes are preppy, bad boy, and street style",
       "price": 50.50,
       "duration": 0.5,
@@ -112,7 +112,7 @@
       "category": "bts"
     },
     {
-      "name": "Suga",
+      "name": "BTS Package: Suga",
       "description": "Suga's vibes are grunge, dark, laid-back, and relaxed",
       "price": 50.50,
       "duration": 0.5,
@@ -120,7 +120,7 @@
       "category": "bts"
     },
     {
-      "name": "V",
+      "name": "BTS Package: V",
       "description": "V's vibes are luxury, sophisticated and artsy",
       "price": 50.50,
       "duration": 0.5,
@@ -128,7 +128,7 @@
       "category": "bts"
     },
     {
-      "name": "RM",
+      "name": "BTS Package: RM",
       "description": "RM's vibes are neutral, down-to-earth, and grounded",
       "price": 50.50,
       "duration": 0.5,
@@ -136,7 +136,7 @@
       "category": "bts"
     },
     {
-      "name": "J-Hope",
+      "name": "BTS Package: J-Hope",
       "description": "J-Hope's vibes are colorful, playful, and sunny",
       "price": 50.50,
       "duration": 0.5,
@@ -144,7 +144,7 @@
       "category": "bts"
     },
     {
-      "name": "Jin",
+      "name": "BTS Package: Jin",
       "description": "J-Hope's vibes are soft, pastel, and fluffy",
       "price": 50.50,
       "duration": 0.5,
@@ -152,7 +152,7 @@
       "category": "bts"
     },
     {
-      "name": "Zendaya Dreamy Tears",
+      "name": "Euphoria Package: Zendaya Dreamy Tears",
       "description": "Emulating Zendaya's look from the show Euphoria",
       "price": 60.75,
       "duration": 1,
@@ -160,7 +160,7 @@
       "category": "euphoria"
     },
     {
-      "name": "Cassie Blues",
+      "name": "Euphoria Package: Cassie Blues",
       "description": "Emulating Cassie's look from the show Euphoria",
       "price": 60.75,
       "duration": 1,
@@ -168,7 +168,7 @@
       "category": "euphoria"
     },
     {
-      "name": "Kat Vixen Eyes",
+      "name": "Euphoria Package: Kat Vixen Eyes",
       "description": "Emulating Kat's look from the show Euphoria",
       "price": 60.75,
       "duration": 1,
@@ -176,7 +176,7 @@
       "category": "euphoria"
     },
     {
-      "name": "Maddie Rhinestones",
+      "name": "Euphoria Package: Maddie Rhinestones",
       "description": "Emulating Maddie's look from the show Euphoria",
       "price": 60.75,
       "duration": 1,
@@ -242,8 +242,8 @@
     {
       "name": "Miss Marionette",
       "description": "A creepy cabaret-style '20s look that will brighten your features but maybe not your ex's future",
-      "price": 60.75,
-      "duration": 1.75,
+      "price": 100,
+      "duration": 2,
       "image": "images/miss marionette.jpeg",
       "category": "goth"
     },
