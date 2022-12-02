@@ -3,6 +3,7 @@
       "name": "Aquarius",
       "description": "Represented by water: Generous, trustworth, independent, indifferent, rebelious",
       "price": 80.00,
+      "duration": 1.5,
       "image": "images/aquarius.jpeg",
       "category": "zodiac"
     },
@@ -10,6 +11,7 @@
       "name": "Aries",
       "description": "Represented by the ram: Brave, willful, productive, impulsive, impatient",
       "price": 80.00,
+      "duration": 1.5,
       "image": "images/aries.jpeg",
       "category": "zodiac"
     },
@@ -17,6 +19,7 @@
       "name": "Cancer",
       "description": "Represented by the crab: Intelligent, crafty, rational, irritable, tenacious",
       "price": 80.00,
+      "duration": 1.5,
       "image": "images/cancer.jpeg",
       "category": "zodiac"
     },
@@ -24,6 +27,7 @@
       "name": "Capricorn",
       "description": "Represented by the goat: Self disciplined, persevering, serious, inflexible, hard-hearted",
       "price": 80.00,
+      "duration": 1.5,
       "image": "images/capricorn.jpeg",
       "category": "zodiac"
     },
@@ -31,6 +35,7 @@
       "name": "Gemini",
       "description": "Represented by the twins: Curious, skillful, humorous, restless, nervous",
       "price": 80.00,
+      "duration": 1.5,
       "image": "images/gemini.jpeg",
       "category": "zodiac"
     },
@@ -38,6 +43,7 @@
       "name": "Leo",
       "description": "Represented by the lion: Dominant, courageous, idealistic, arrogant, hedonistic",
       "price": 80.00,
+      "duration": 1.5,
       "image": "images/leo.jpeg",
       "category": "zodiac"
     },
@@ -45,6 +51,7 @@
       "name": "Pisces",
       "description": "Represented by the fish: Sensible, placid, easygoing, dreamy, obsessive",
       "price": 80.00,
+      "duration": 1.5,
       "image": "images/pisces.jpeg",
       "category": "zodiac"
     },
@@ -52,6 +59,7 @@
       "name": "Sagittarius",
       "description": "Represented by the crossbow: Optimistic, fair-minded, intellectual, reckless, cold-hearted",
       "price": 80.00,
+      "duration": 1.5,
       "image": "images/sagitarius.jpeg",
       "category": "zodiac"
     },
@@ -59,6 +67,7 @@
       "name": "Scorpio",
       "description": "Represented by the scorpion: Emotional, industrious, inquisitive, jealous, compulsive",
       "price": 80.00,
+      "duration": 1.5,
       "image": "images/scorpio.jpeg",
       "category": "zodiac"
     },
@@ -66,6 +75,7 @@
       "name": "Taurus",
       "description": "Represented by the bull: Practical, confident, tidy, stubborn, excessive",
       "price": 80.00,
+      "duration": 1.5,
       "image": "images/taurus.jpeg",
       "category": "zodiac"
     },
@@ -73,6 +83,7 @@
       "name": "Virgo",
       "description": "Represented by the child: Altruistic, adaptable, efficient, sensitive, materialistic",
       "price": 80.00,
+      "duration": 1.5,
       "image": "images/virgo.jpeg",
       "category": "zodiac"
     },
@@ -80,6 +91,7 @@
       "name": "Libra",
       "description": "Represented by the scales: Fair, wise, helpful, superficial, vain",
       "price": 80.00,
+      "duration": 1.5,
       "image": "images/libra.jpeg",
       "category": "zodiac"
     },
@@ -87,6 +99,7 @@
       "name": "Jimin",
       "description": "Jimin's vibes are ethereal, angelic, heavenly",
       "price": 50.50,
+      "duration": 0.5,
       "image": "images/jimin.jpeg",
       "category": "bts"
     },
@@ -94,6 +107,7 @@
       "name": "Jungkook",
       "description": "Jungkook's vibes are preppy, bad boy, and street style",
       "price": 50.50,
+      "duration": 0.5,
       "image": "images/jungkook.jpeg",
       "category": "bts"
     },
@@ -101,6 +115,7 @@
       "name": "Suga",
       "description": "Suga's vibes are grunge, dark, laid-back, and relaxed",
       "price": 50.50,
+      "duration": 0.5,
       "image": "images/suga.jpeg",
       "category": "bts"
     },
@@ -108,6 +123,7 @@
       "name": "V",
       "description": "V's vibes are luxury, sophisticated and artsy",
       "price": 50.50,
+      "duration": 0.5,
       "image": "images/v.jpeg",
       "category": "bts"
     },
@@ -115,6 +131,7 @@
       "name": "RM",
       "description": "RM's vibes are neutral, down-to-earth, and grounded",
       "price": 50.50,
+      "duration": 0.5,
       "image": "images/rm.jpeg",
       "category": "bts"
     },
@@ -122,6 +139,7 @@
       "name": "J-Hope",
       "description": "J-Hope's vibes are colorful, playful, and sunny",
       "price": 50.50,
+      "duration": 0.5,
       "image": "images/jhope.jpeg",
       "category": "bts"
     },
@@ -129,6 +147,7 @@
       "name": "Jin",
       "description": "J-Hope's vibes are soft, pastel, and fluffy",
       "price": 50.50,
+      "duration": 0.5,
       "image": "images/jin.jpeg",
       "category": "bts"
     },
@@ -136,6 +155,7 @@
       "name": "Zendaya Dreamy Tears",
       "description": "Emulating Zendaya's look from the show Euphoria",
       "price": 60.75,
+      "duration": 1,
       "image": "images/zendaya dreamy tears.jpeg",
       "category": "euphoria"
     },
@@ -143,6 +163,7 @@
       "name": "Cassie Blues",
       "description": "Emulating Cassie's look from the show Euphoria",
       "price": 60.75,
+      "duration": 1,
       "image": "images/cassie blues.jpeg",
       "category": "euphoria"
     },
@@ -150,6 +171,7 @@
       "name": "Kat Vixen Eyes",
       "description": "Emulating Kat's look from the show Euphoria",
       "price": 60.75,
+      "duration": 1,
       "image": "images/kat vixen.jpeg",
       "category": "euphoria"
     },
@@ -157,6 +179,7 @@
       "name": "Maddie Rhinestones",
       "description": "Emulating Maddie's look from the show Euphoria",
       "price": 60.75,
+      "duration": 1,
       "image": "images/maddie rhinestones.jpeg",
       "category": "euphoria"
     },
@@ -164,6 +187,7 @@
       "name": "Venom Vixen",
       "description": "A sultry, not-so-subtle look",
       "price": 70.75,
+      "duration": 1.5,
       "image": "images/bat artsy.jpeg",
       "category": "e"
     },
@@ -171,6 +195,7 @@
       "name": "Black Butterfly",
       "description": "A subtle, sophisticated butterfly detail",
       "price": 65.45,
+      "duration": 1,
       "image": "images/butterfly beauty.jpeg",
       "category": "e"
     },
@@ -178,6 +203,7 @@
       "name": "Aerial Armour",
       "description": "A subtle angelic look",
       "price": 40.15,
+      "duration": 0.5,
       "image": "images/bright soft boy.jpeg",
       "category": "soft"
     },
@@ -185,6 +211,7 @@
       "name": "Blissful Batlike",
       "description": "A gorgeous white detail riding the line between butterfly and bat",
       "price": 60.75,
+      "duration": 1,
       "image": "images/butterfly eboy.jpeg",
       "category": "soft"
     },
@@ -192,6 +219,7 @@
       "name": "Cosmic Queen",
       "description": "A crystal-encrusted look that is sure to make a statement",
       "price": 100.05,
+      "duration": 2,
       "image": "images/cosmic queen.jpeg",
       "category": "artsy"
     },
@@ -199,6 +227,7 @@
       "name": "Cottage Cutie",
       "description": "A simple and fresh cottage core look",
       "price": 40.75,
+      "duration": 1,
       "image": "images/cute cottage core.jpeg",
       "category": "cottage"
     },
@@ -206,6 +235,7 @@
       "name": "Rosy Cottage Cutie",
       "description": "A delicate, intricate rosy look",
       "price": 300,
+      "duration": 4,
       "image": "images/rosy cottage core.jpeg",
       "category": "cottage"
     },
@@ -213,6 +243,7 @@
       "name": "Miss Marionette",
       "description": "A creepy cabaret-style '20s look that will brighten your features but maybe not your ex's future",
       "price": 60.75,
+      "duration": 1.75,
       "image": "images/miss marionette.jpeg",
       "category": "goth"
     },
@@ -220,6 +251,7 @@
       "name": "My Funny Valentine",
       "description": "An unorthodox Valentines look that flirts with the dark side of Valentines day",
       "price": 50.35,
+      "duration": 0.75,
       "image": "images/valentine artsy.jpeg",
       "category": "e"
     },
@@ -227,6 +259,7 @@
       "name": "Heavensent",
       "description": "A simple white look which will accentuate your features",
       "price": 30.05,
+      "duration": 0.5,
       "image": "images/heavensent.jpeg",
       "category": "simple"
     },
@@ -234,6 +267,7 @@
       "name": "Tasty Toxin",
       "description": "A snakelike look that will leave people wondering whether they can trust you",
       "price": 100,
+      "duration": 1.75,
       "image": "images/toxic was never so tasty.jpeg",
       "category": "artsy"
     },
@@ -241,6 +275,7 @@
       "name": "Sweet Soft Simplicity",
       "description": "A simple soft look that will brighten up any cloudy day",
       "price": 30.05,
+      "duration": 0.75,
       "image": "images/sweet soft girl.jpeg",
       "category": "simple"
     },
@@ -248,6 +283,7 @@
       "name": "Queen of Hearts",
       "description": "Not for the faint of heart",
       "price": 70.75,
+      "duration": 1.5,
       "image": "images/queen of hearts.jpeg",
       "category": "artsy"
     },
@@ -255,6 +291,7 @@
       "name": "Mystic Goth",
       "description": "A witchy look to attract all of the attention you want, but scare off unwanted attention",
       "price": 140.15,
+      "duration": 3,
       "image": "images/mystic goth.jpeg",
       "category": "goth"
     },
@@ -262,6 +299,7 @@
       "name": "Internet Icon",
       "description": "An iconic pink e-look inspired by Doja Cat",
       "price": 150.75,
+      "duration": 2.5,
       "image": "images/iconic pink egirl.jpeg",
       "category": "e"
     },
@@ -269,6 +307,7 @@
       "name": "Hell's Haunted Angel",
       "description": "A morbid sexy look to suggest you're an angel who didn't quite make it to heaven",
       "price": 90.45,
+      "duration": 2,
       "image": "images/haunted mind.jpeg",
       "category": "goth"
     },
@@ -276,6 +315,7 @@
       "name": "Green With Envy",
       "description": "A subtle snakelike accent, the little sister of Tasty Toxin",
       "price": 50.65,
+      "duration": 1,
       "image": "images/green with envy.jpeg",
       "category": "artsy"
     },
@@ -283,6 +323,7 @@
       "name": "Avant Garde Avalanche",
       "description": "A show-stopping look harkening back to the Avant Garde movement",
       "price": 90.95,
+      "duration": 1.5,
       "image": "images/glam artsy.jpeg",
       "category": "artsy"
     },
@@ -290,6 +331,7 @@
       "name": "Ethereal Corruption",
       "description": "A twisted take on our angelic look, Blissful Batlike",
       "price": 50.00,
+      "duration": 0.75,
       "image": "images/ethereal eboy.jpeg",
       "category": "e"
     }
