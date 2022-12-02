@@ -7,7 +7,7 @@
   }
   
   .BakeryItem img{
-      width: 20vw;
+      width: 15vw;
       height: auto;
       border: 1px solid black;
       border-radius: 10px;
@@ -48,6 +48,8 @@
     font-size: 1vw;
     margin-left: 1vw;
     margin-top: 0.5vw;
+    border: 0;
+    background: transparent;
   }
 
   .side-panel {
@@ -57,6 +59,7 @@
     display: flex;
     justify-content: center;
     flex-direction: column;
+    position: fixed;
   }
 
   .side-panel-int {
@@ -106,6 +109,12 @@
     border-radius: 15px;
     font-size: 1vw;
   }
+
+  .cart-total {
+    color: #F194C7;
+    font-weight: bold;
+  }
+
 
 
   

@@ -1,93 +1,117 @@
 [
     {
-      "name": "Chocolate Chip Cookies",
-      "description": "Four classic chocolate chip cookies",
-      "price": 7.99,
-      "image": "images/anika.png"
+      "name": "Aquarius",
+      "description": "Represented by water: Generous, trustworth, independent, indifferent, rebelious",
+      "price": 80.00,
+      "image": "images/aquarius.jpeg"
     },
     {
-      "name": "Matcha Mille Crepe Cake",
-      "description": "Layers of matcha crepe and matcha cream filling, topped with strawberries",
-      "price": 4.99,
-      "image": "images/aubrey.png"
+      "name": "Aries",
+      "description": "Represented by the ram: Brave, willful, productive, impulsive, impatient",
+      "price": 80.00,
+      "image": "images/aries.jpeg"
     },
     {
-      "name": "Egg Custard Bun",
-      "description": "A fluffy steamed bun with a savory egg filling",
-      "price": 2.99,
-      "image": "images/connie.png"
+      "name": "Cancer",
+      "description": "Represented by the crab: Intelligent, crafty, rational, irritable, tenacious",
+      "price": 80.00,
+      "image": "images/cancer.jpeg"
     },
     {
-      "name": "Steamed Taro Buns",
-      "description": "Two soft steamed buns filled with gooey purple taro filling",
-      "price": 5.99,
-      "image": "images/dylan.png"
+      "name": "Capricorn",
+      "description": "Represented by the goat: Self disciplined, persevering, serious, inflexible, hard-hearted",
+      "price": 80.00,
+      "image": "images/capricorn.jpeg"
     },
     {
-      "name": "Chocolate Fudge Brownie",
-      "description": "A rich fudge brownie drizzled with chocolate ganache",
-      "price": 3.99,
-      "image": "images/isaac.png"
+      "name": "Gemini",
+      "description": "Represented by the twins: Curious, skillful, humorous, restless, nervous",
+      "price": 80.00,
+      "image": "images/gemini.jpeg"
     },
     {
-      "name": "Macarons",
-      "description": "A box of three macarons in assorted flavors",
-      "price": 4.99,
-      "image": "images/jeff.png"
+      "name": "Leo",
+      "description": "Represented by the lion: Dominant, courageous, idealistic, arrogant, hedonistic",
+      "price": 80.00,
+      "image": "images/leo.jpeg"
     },
     {
-      "name": "Multigrain Bread",
-      "description": "A loaf of fresh-baked multigrain bread",
-      "price": 4.99,
-      "image": "images/jenny.png"
+      "name": "Pisces",
+      "description": "Represented by the fish: Sensible, placid, easygoing, dreamy, obsessive",
+      "price": 80.00,
+      "image": "images/pisces.jpeg"
     },
     {
-      "name": "Croissant",
-      "description": "A classic butter croissant with a flaky crust",
-      "price": 2.99,
-      "image": "images/jessie.png"
+      "name": "Sagittarius",
+      "description": "Represented by the crossbow: Optimistic, fair-minded, intellectual, reckless, cold-hearted",
+      "price": 80.00,
+      "image": "images/sagitarius.jpeg"
     },
     {
-      "name": "Toast with Butter",
-      "description": "A slice of toast with a pat of butter",
-      "price": 1.99,
-      "image": "images/kelly.png"
+      "name": "Scorpio",
+      "description": "Represented by the scorpion: Emotional, industrious, inquisitive, jealous, compulsive",
+      "price": 80.00,
+      "image": "images/scorpio.jpeg"
     },
     {
-      "name": "Tiramisu",
-      "description": "A classic tiramisu with layers of coffee-soaked ladyfingers and mascarpone cream",
-      "price": 3.99,
-      "image": "images/lauren.png"
+      "name": "Taurus",
+      "description": "Represented by the bull: Practical, confident, tidy, stubborn, excessive",
+      "price": 80.00,
+      "image": "images/taurus.jpeg"
     },
     {
-      "name": "Egg Tart",
-      "description": "A flaky pastry shell filled with a sweet egg custard",
-      "price": 2.99,
-      "image": "images/melissa.png"
+      "name": "Virgo",
+      "description": "Represented by the child: Altruistic, adaptable, efficient, sensitive, materialistic",
+      "price": 80.00,
+      "image": "images/virgo.jpeg"
     },
     {
-      "name": "Everything Bagel",
-      "description": "A toasted bagel with sesame seeds, poppy seeds, and dried onion",
-      "price": 2.99,
-      "image": "images/miku.png"
+      "name": "Libra",
+      "description": "Represented by the scales: Fair, wise, helpful, superficial, vain",
+      "price": 80.00,
+      "image": "images/libra.jpeg"
     },
     {
-      "name": "Gingerbread Man",
-      "description": "A soft gingerbread cookie with a sweet icing glaze",
-      "price": 2.99,
-      "image": "images/nick.png"
+      "name": "Jimin",
+      "description": "Jimin's vibes are ethereal, angelic, heavenly",
+      "price": 50.50,
+      "image": "images/jimin.jpeg"
     },
     {
-      "name": "Cheesecake",
-      "description": "A slice of classic New York cheesecake topped with strawberry",
-      "price": 3.99,
-      "image": "images/sunny.png"
+      "name": "Jungkook",
+      "description": "Jungkook's vibes are preppy, bad boy, and street style",
+      "price": 50.50,
+      "image": "images/jungkook.jpeg"
     },
     {
-      "name": "Cream Puff",
-      "description": "Light and airy pâte à choux filled with sweet whipped cream",
-      "price": 2.99,
-      "image": "images/tongyu.png"
+      "name": "Suga",
+      "description": "Suga's vibes are grunge, dark, laid-back, and relaxed",
+      "price": 50.50,
+      "image": "images/suga.jpeg"
+    },
+    {
+      "name": "V",
+      "description": "V's vibes are luxury, sophisticated and artsy",
+      "price": 50.50,
+      "image": "images/v.jpeg"
+    },
+    {
+      "name": "RM",
+      "description": "RM's vibes are neutral, down-to-earth, and grounded",
+      "price": 50.50,
+      "image": "images/rm.jpeg"
+    },
+    {
+      "name": "J-Hope",
+      "description": "J-Hope's vibes are colorful, playful, and sunny",
+      "price": 50.50,
+      "image": "images/jhope.jpeg"
+    },
+    {
+      "name": "Jin",
+      "description": "J-Hope's vibes are soft, pastel, and fluffy",
+      "price": 50.50,
+      "image": "images/jin.jpeg"
     }
   ]
   

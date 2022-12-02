@@ -47,7 +47,7 @@ function App() {
         </div>
       </div>
 
-      <div style={{marginLeft: '1vw'}}>
+      <div style={{marginLeft: '23vw'}}>
         <div class = "header">
           <div class = "header-img"><img src = "images/logo.png"></img></div>
           <div class="header-text">Makeup Cafe</div>
@@ -66,13 +66,16 @@ function App() {
 
     </div>
 
-      <div>
-        <h2>Cart</h2>
-        <p>Total: ${total}</p>
+      <div style={{marginLeft: '65vw', borderLeft: "1px solid #F194C7", height: "100vh", paddingLeft: "3vw", position: "fixed"}}>
+        <div style={{marginTop: '20vh'}}>
+        <h1>Cart</h1>
+        <p><span>Your Total: </span>
+        <span class="cart-total">${total}</span></p>
         {/* TODO: render a list of items in the cart */}
         {cartItems.map((item, index) => (
           <li key={index}>{item}</li>
         ))}
+      </div>
       </div>
     </div>
   );
