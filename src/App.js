@@ -84,7 +84,7 @@ function App() {
         <button style={{color: "#F194C7", border: 0, background: "transparent", paddingBottom: "1vh"}} onClick = {() => {
           setCategory("")
           setCurrSort("none")
-        }}>VIEW ALL</button>
+        }}>REFRESH</button>
         <h2>❥ View by package</h2>
         <ul>
           <button onClick={() => setCategory("zodiac")} class ="side-panel-button"><h3 style={category == "zodiac" ? {background: '#f194c7b1', color: 'white', filter: 'drop-shadow(0px 0px 4px #f194c7b1)'}: {}}>Zodiac Package</h3></button>
