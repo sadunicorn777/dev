@@ -34,9 +34,9 @@ function App() {
           <button class ="side-panel-button"><h3>E-girl/E-boy</h3></button>
           <button class ="side-panel-button"><h3>Soft girl/Soft boy</h3></button>
           <button class ="side-panel-button"><h3>Cottagecore</h3></button>
-          <button class ="side-panel-button"><h3>Artsy</h3></button>
-          <button class ="side-panel-button"><h3>Grunge</h3></button>
-          <button class ="side-panel-button"><h3>Baddie</h3></button>
+          <button class ="side-panel-button"><h3>Artsy/Festive</h3></button>
+          <button class ="side-panel-button"><h3>Grunge/Goth/Macabre</h3></button>
+          <button class ="side-panel-button"><h3>Simple/Everyday/Baddie</h3></button>
         </ul>
         <h2>❥ View all</h2>
 

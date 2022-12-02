@@ -112,6 +112,144 @@
       "description": "J-Hope's vibes are soft, pastel, and fluffy",
       "price": 50.50,
       "image": "images/jin.jpeg"
+    },
+    {
+      "name": "Zendaya Dreamy Tears",
+      "description": "Emulating Zendaya's look from the show Euphoria",
+      "price": 60.75,
+      "image": "images/zendaya dreamy tears.jpeg"
+    },
+    {
+      "name": "Cassie Blues",
+      "description": "Emulating Cassie's look from the show Euphoria",
+      "price": 60.75,
+      "image": "images/cassie blues.jpeg"
+    },
+    {
+      "name": "Kat Vixen Eyes",
+      "description": "Emulating Kat's look from the show Euphoria",
+      "price": 60.75,
+      "image": "images/kat vixen.jpeg"
+    },
+    {
+      "name": "Maddie Rhinestones",
+      "description": "Emulating Maddie's look from the show Euphoria",
+      "price": 60.75,
+      "image": "images/maddie rhinestones.jpeg"
+    },
+    {
+      "name": "Venom Vixen",
+      "description": "A sultry, not-so-subtle look",
+      "price": 70.75,
+      "image": "images/bat artsy.jpeg"
+    },
+    {
+      "name": "Black Butterfly",
+      "description": "A subtle, sophisticated butterfly detail",
+      "price": 65.45,
+      "image": "images/butterfly beauty.jpeg"
+    },
+    {
+      "name": "Aerial Armour",
+      "description": "A subtle angelic look",
+      "price": 40.15,
+      "image": "images/bright soft boy.jpeg"
+    },
+    {
+      "name": "Blissful Batlike",
+      "description": "A gorgeous white detail riding the line between butterfly and bat",
+      "price": 60.75,
+      "image": "images/butterfly eboy.jpeg"
+    },
+    {
+      "name": "Cosmic Queen",
+      "description": "A crystal-encrusted look that is sure to make a statement",
+      "price": 100.05,
+      "image": "images/cosmic queen.jpeg"
+    },
+    {
+      "name": "Cottage Cutie",
+      "description": "A simple and fresh cottage core look",
+      "price": 40.75,
+      "image": "images/cute cottage core.jpeg"
+    },
+    {
+      "name": "Rosy Cottage Cutie",
+      "description": "A delicate, intricate rosy look",
+      "price": 300,
+      "image": "images/rosy cottage core.jpeg"
+    },
+    {
+      "name": "Miss Marionette",
+      "description": "A creepy cabaret-style '20s look that will brighten your features but maybe not your ex's future",
+      "price": 60.75,
+      "image": "images/miss marionette.jpeg"
+    },
+    {
+      "name": "My Funny Valentine",
+      "description": "An unorthodox Valentines look that flirts with the dark side of Valentines day",
+      "price": 50.35,
+      "image": "images/valentine artsy.jpeg"
+    },
+    {
+      "name": "Heavensent",
+      "description": "A simple white look which will accentuate your features",
+      "price": 30.05,
+      "image": "images/heavensent.jpeg"
+    },
+    {
+      "name": "Tasty Toxin",
+      "description": "A snakelike look that will leave people wondering whether they can trust you",
+      "price": 100,
+      "image": "images/toxic was never so tasty.jpeg"
+    },
+    {
+      "name": "Sweet Soft Simplicity",
+      "description": "A simple soft look that will brighten up any cloudy day",
+      "price": 30.05,
+      "image": "images/sweet soft girl.jpeg"
+    },
+    {
+      "name": "Queen of Hearts",
+      "description": "Not for the faint of heart",
+      "price": 70.75,
+      "image": "images/queen of hearts.jpeg"
+    },
+    {
+      "name": "Mystic Goth",
+      "description": "A witchy look to attract all of the attention you want, but scare off unwanted attention",
+      "price": 140.15,
+      "image": "images/mystic goth.jpeg"
+    },
+    {
+      "name": "Internet Icon",
+      "description": "An iconic pink e-look inspired by Doja Cat",
+      "price": 150.75,
+      "image": "images/iconic pink egirl.jpeg"
+    },
+    {
+      "name": "Hell's Haunted Angel",
+      "description": "A morbid sexy look to suggest you're an angel who didn't quite make it to heaven",
+      "price": 90.45,
+      "image": "images/haunted mind.jpeg"
+    },
+    {
+      "name": "Green With Envy",
+      "description": "A subtle snakelike accent, the little sister of Tasty Toxin",
+      "price": 50.65,
+      "image": "images/green with envy.jpeg"
+    },
+    {
+      "name": "Avant Garde Avalanche",
+      "description": "A show-stopping look harkening back to the Avant Garde movement",
+      "price": 90.95,
+      "image": "images/glam artsy.jpeg"
+    },
+    {
+      "name": "Ethereal Corruption",
+      "description": "A twisted take on our angelic look, Blissful Batlike",
+      "price": 50.00,
+      "image": "images/ethereal eboy.jpeg"
     }
   ]
   
