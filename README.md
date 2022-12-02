@@ -11,7 +11,7 @@ The website also features themed packages of looks. All items within each packag
 
 Users are able to use any combination of filters and sorts to view the items. If no filter or sort is selected, the items appear in a random order.
 
-To remove all filters and sorts, simply press "View All". 
+To remove all filters and sorts, simply press "Refresh". 
 
 The sorts will sort items in descending order. 
 
