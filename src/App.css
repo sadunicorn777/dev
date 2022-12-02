@@ -57,13 +57,16 @@
     background-color: #f194c71d;
     width: 20vw;
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     flex-direction: column;
     position: fixed;
+    overflow: scroll;
   }
 
   .side-panel-int {
+    margin-top: 5vh;
     margin-left: 1vw;
+    width: 18vw;
   }
 
   h1 {
@@ -84,6 +87,7 @@
     height: 1vh;
     background-color: rgba(255, 255, 255);
     border-radius: 15px;
+    margin-top: -0.5vh;
     padding: 8px;
     line-height: 1vh;
   }
@@ -96,9 +100,6 @@
   .side-panel-sort-buttons {
     margin-top: 3vh;
     width: 20vw;
-    display: flex;
-    justify-content: space-evenly;
-    margin-left: -1vw;
   }
 
   .side-panel-sort {
@@ -108,6 +109,8 @@
     padding: 8px;
     border-radius: 15px;
     font-size: 1vw;
+    margin-left: 0.5vw;
+    margin-top: 1vh;
   }
 
   .cart-total {
